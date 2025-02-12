@@ -19,6 +19,10 @@ A modern task management application built with Next.js, React, and Tailwind CSS
 - Responsive design
 - Toast notifications
 
+## Video Demo
+https://github.com/user-attachments/assets/7380063a-8fb1-4d76-9dd4-64c6cb00373c
+
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/) - The React Framework
